@@ -1,0 +1,29 @@
+.ingredients {
+    color: magenta;
+}
+
+.elab {
+    color: darkgreen;
+}
+.blanco{
+    color: white;
+}
+.cyan{
+    color: cyan;
+}
+.titulo{
+    background-color: rgb(200, 200, 200);
+}
+.gris{
+    color: gray;
+}
+.listas{
+    background-color: rgb(180, 180, 255);
+
+}
+#churros{
+    color: blue;
+}
+h1{
+    background-color: rgb(100, 100, 200);
+}
